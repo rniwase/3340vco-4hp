@@ -1,6 +1,6 @@
 (fp_lib_table
-  (lib (name sop_conv)(type KiCad)(uri ${KIPRJMOD}/mod/sop_conv.pretty)(options "")(descr ""))
-  (lib (name C_addition)(type KiCad)(uri ${KIPRJMOD}/mod/C_addition.pretty)(options "")(descr ""))
-  (lib (name PIN_addition)(type KiCad)(uri ${KIPRJMOD}/mod/PIN_addition.pretty)(options "")(descr ""))
-  (lib (name marushin)(type KiCad)(uri ${KIPRJMOD}/mod/PIN_addition.pretty/marushin.pretty)(options "")(descr ""))
+  (lib (name "sop_conv")(type "KiCad")(uri "${KIPRJMOD}/mod/sop_conv.pretty")(options "")(descr ""))
+  (lib (name "C_addition")(type "KiCad")(uri "${KIPRJMOD}/mod/C_addition.pretty")(options "")(descr ""))
+  (lib (name "PIN_addition")(type "KiCad")(uri "${KIPRJMOD}/mod/PIN_addition.pretty")(options "")(descr ""))
+  (lib (name "marushin")(type "KiCad")(uri "${KIPRJMOD}/mod/marushin.pretty")(options "")(descr ""))
 )
